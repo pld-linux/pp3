@@ -1,0 +1,15 @@
+--- Makefile.new        2004-09-07 17:46:01.372541352 +0200
++++ Makefile    2004-09-07 17:46:12.503849136 +0200
+@@ -3,9 +3,9 @@
+
+ # you may set this to empty in order to install the files
+ # non-locally.
+-LOCAL=local
++LOCAL=
+
+-USRDIR=/usr/$(LOCAL)
++USRDIR=/usr
+
+ # Standard share directory
+ DATADIR= $(USRDIR)/share
+
