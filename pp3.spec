@@ -7,6 +7,7 @@ Group:		Applications/Science
 Patch0:		%{name}-makefile.patch
 Requires:	tetex-dvips
 Requires:	tetex-fonts-jknappen
+Requires:	tetex-format-latex
 Requires:	tetex-latex-ams
 Requires:	tetex-latex-psnfss
 Requires:	tetex-metafont
