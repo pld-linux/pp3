@@ -39,9 +39,9 @@ bitmapy do wykorzystania przyk³adowo na stronie WWW uzyskuje
 zadowalaj±c± jako¶æ.
 
 %package doc
-Summary:        PP3 documentation in PDF and examples
-Summary(pl):    Dokumentacja PP3 w formacie PDF i przyk³ady
-Group:          Applications/Science
+Summary:	PP3 documentation in PDF and examples
+Summary(pl):	Dokumentacja PP3 w formacie PDF i przyk³ady
+Group:		Applications/Science
 
 %description doc
 There are many programs that can create stellar maps. But none of them
