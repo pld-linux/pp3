@@ -11,6 +11,7 @@ Source1:	http://dl.sourceforge.net/pp3/%{name}.pdf
 # Source1-md5:	2656f4e125afb487bf13af429751458e
 Patch0:		%{name}-makefile.patch
 URL:		http://pp3.sourceforge.net/
+BuildRequires:	libstdc++-devel
 Requires:	tetex-dvips
 Requires:	tetex-fonts-jknappen
 Requires:	tetex-format-latex
