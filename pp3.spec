@@ -1,4 +1,5 @@
-Summary:	Celestial charts generation
+Summary:	Program for drawing celestial maps
+Summary(pl):	Program do rysowania map nieba
 Name:		pp3
 Version:	1.3.3
 Release:	0.1
@@ -18,7 +19,21 @@ URL:		http://pp3.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Celestial charts generation
+There are many programs that can create stellar maps. But none of them 
+reaches PP3's typographic and graphical quality. In contrast to other 
+programs PP3 produces vector images (e.g. PDFs) rather than mere bitmaps. 
+Therefore it is perfectly suited for creating illustrations for books or 
+other print media. But even converted to bitmaps for web pages, it exceeds 
+usual quality.
+
+%description -l pl
+Istnieje wiele programów, które potrafi± tworzyæ mapy nieba. Ale ¿aden z nich
+nie dorównuje PP3 jako¶ci± generowanych obrazów. W przeciwieñstwie do innych
+tego typu programów PP3 tworzy zamiast zwyk³ych bitmap obrazy wektorowe (na 
+przyk³ad w formacie PDF). Dlatego ¶wietnie nadaje siê do tworzenia ilustracji 
+do ksi±¿ek oraz innych publikacji przeznaczonych do druku. Jednak¿e nawet po 
+konwersji do bitmapy do wykorzystania przyk³adowo na stronie www uzyskuje 
+zadowalaj±c± jako¶æ.
 
 %prep
 %setup -q -n %{name}-%{version}
