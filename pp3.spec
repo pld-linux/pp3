@@ -2,7 +2,7 @@ Summary:	Celestial charts generation
 Name:		pp3
 Version:	1.3.3
 Release:	0.1
-License:	See %{_docdir}/COPYING for details
+License:	See %{_docdir}/%{name}-%{version}/COPYING for details
 Group:		Applications/Science
 Patch0:		%{name}-makefile.patch
 Requires:	tetex-dvips
