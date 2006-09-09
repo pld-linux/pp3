@@ -71,7 +71,9 @@ Pakiet ten zawiera dokumentacjê PP3 w formacie PDF oraz przyk³ady.
 %patch0 -p0
 
 %build
-%{__make}
+%{__make} \
+	CXX="%{__cxx}" \
+	CXXFLAGS="%{rpmcxxflags}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
