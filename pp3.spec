@@ -1,5 +1,5 @@
 Summary:	Program for drawing celestial maps
-Summary(pl):	Program do rysowania map nieba
+Summary(pl.UTF-8):   Program do rysowania map nieba
 Name:		pp3
 Version:	1.3.3
 Release:	1
@@ -29,19 +29,19 @@ bitmaps. Therefore it is perfectly suited for creating illustrations
 for books or other print media. But even converted to bitmaps for web
 pages, it exceeds usual quality.
 
-%description -l pl
-Istnieje wiele programów, które potrafi± tworzyæ mapy nieba. Ale ¿aden
-z nich nie dorównuje PP3 jako¶ci± generowanych obrazów. W
-przeciwieñstwie do innych tego typu programów PP3 tworzy zamiast
-zwyk³ych bitmap obrazy wektorowe (na przyk³ad w formacie PDF). Dlatego
-¶wietnie nadaje siê do tworzenia ilustracji do ksi±¿ek oraz innych
-publikacji przeznaczonych do druku. Jednak¿e nawet po konwersji do
-bitmapy do wykorzystania przyk³adowo na stronie WWW uzyskuje
-zadowalaj±c± jako¶æ.
+%description -l pl.UTF-8
+Istnieje wiele programÃ³w, ktÃ³re potrafiÄ… tworzyÄ‡ mapy nieba. Ale Å¼aden
+z nich nie dorÃ³wnuje PP3 jakoÅ›ciÄ… generowanych obrazÃ³w. W
+przeciwieÅ„stwie do innych tego typu programÃ³w PP3 tworzy zamiast
+zwykÅ‚ych bitmap obrazy wektorowe (na przykÅ‚ad w formacie PDF). Dlatego
+Å›wietnie nadaje siÄ™ do tworzenia ilustracji do ksiÄ…Å¼ek oraz innych
+publikacji przeznaczonych do druku. JednakÅ¼e nawet po konwersji do
+bitmapy do wykorzystania przykÅ‚adowo na stronie WWW uzyskuje
+zadowalajÄ…cÄ… jakoÅ›Ä‡.
 
 %package doc
 Summary:	PP3 documentation in PDF and examples
-Summary(pl):	Dokumentacja PP3 w formacie PDF i przyk³ady
+Summary(pl.UTF-8):   Dokumentacja PP3 w formacie PDF i przykÅ‚ady
 Group:		Applications/Science
 
 %description doc
@@ -54,17 +54,17 @@ pages, it exceeds usual quality.
 
 This package contains PP3 documentation in PDF and examples.
 
-%description doc -l pl
-Istnieje wiele programów, które potrafi± tworzyæ mapy nieba. Ale ¿aden
-z nich nie dorównuje PP3 jako¶ci± generowanych obrazów. W
-przeciwieñstwie do innych tego typu programów PP3 tworzy zamiast
-zwyk³ych bitmap obrazy wektorowe (na przyk³ad w formacie PDF). Dlatego
-¶wietnie nadaje siê do tworzenia ilustracji do ksi±¿ek oraz innych
-publikacji przeznaczonych do druku. Jednak¿e nawet po konwersji do
-bitmapy do wykorzystania przyk³adowo na stronie WWW uzyskuje
-zadowalaj±c± jako¶æ.
+%description doc -l pl.UTF-8
+Istnieje wiele programÃ³w, ktÃ³re potrafiÄ… tworzyÄ‡ mapy nieba. Ale Å¼aden
+z nich nie dorÃ³wnuje PP3 jakoÅ›ciÄ… generowanych obrazÃ³w. W
+przeciwieÅ„stwie do innych tego typu programÃ³w PP3 tworzy zamiast
+zwykÅ‚ych bitmap obrazy wektorowe (na przykÅ‚ad w formacie PDF). Dlatego
+Å›wietnie nadaje siÄ™ do tworzenia ilustracji do ksiÄ…Å¼ek oraz innych
+publikacji przeznaczonych do druku. JednakÅ¼e nawet po konwersji do
+bitmapy do wykorzystania przykÅ‚adowo na stronie WWW uzyskuje
+zadowalajÄ…cÄ… jakoÅ›Ä‡.
 
-Pakiet ten zawiera dokumentacjê PP3 w formacie PDF oraz przyk³ady.
+Pakiet ten zawiera dokumentacjÄ™ PP3 w formacie PDF oraz przykÅ‚ady.
 
 %prep
 %setup -q
