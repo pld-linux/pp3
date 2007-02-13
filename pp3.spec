@@ -1,5 +1,5 @@
 Summary:	Program for drawing celestial maps
-Summary(pl.UTF-8):   Program do rysowania map nieba
+Summary(pl.UTF-8):	Program do rysowania map nieba
 Name:		pp3
 Version:	1.3.3
 Release:	1
@@ -41,7 +41,7 @@ zadowalającą jakość.
 
 %package doc
 Summary:	PP3 documentation in PDF and examples
-Summary(pl.UTF-8):   Dokumentacja PP3 w formacie PDF i przykłady
+Summary(pl.UTF-8):	Dokumentacja PP3 w formacie PDF i przykłady
 Group:		Applications/Science
 
 %description doc
