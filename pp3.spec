@@ -68,7 +68,7 @@ Pakiet ten zawiera dokumentację PP3 w formacie PDF oraz przykłady.
 
 %prep
 %setup -q
-%patch0 -p0
+%patch -P0 -p0
 
 %build
 %{__make} \
